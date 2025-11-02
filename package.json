@@ -1,0 +1,10 @@
+{
+  "name": "hybrid-cloud-demo",
+  "version": "1.0.0",
+  "description": "Simple Node.js server for hybrid cloud demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
